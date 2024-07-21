@@ -1,0 +1,422 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\HSU\\HK2 2024\\Authentication\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{78A317DE-6266-42D1-8761-80406C5A44F0}|Authentication\\Authentication.csproj|c:\\hsu\\hk2 2024\\authentication\\authentication\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{78A317DE-6266-42D1-8761-80406C5A44F0}|Authentication\\Authentication.csproj|solutionrelative:authentication\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78A317DE-6266-42D1-8761-80406C5A44F0}|Authentication\\Authentication.csproj|c:\\hsu\\hk2 2024\\authentication\\authentication\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{78A317DE-6266-42D1-8761-80406C5A44F0}|Authentication\\Authentication.csproj|solutionrelative:authentication\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78A317DE-6266-42D1-8761-80406C5A44F0}|Authentication\\Authentication.csproj|c:\\hsu\\hk2 2024\\authentication\\authentication\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{78A317DE-6266-42D1-8761-80406C5A44F0}|Authentication\\Authentication.csproj|solutionrelative:authentication\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78A317DE-6266-42D1-8761-80406C5A44F0}|Authentication\\Authentication.csproj|c:\\hsu\\hk2 2024\\authentication\\authentication\\models\\authenticationcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78A317DE-6266-42D1-8761-80406C5A44F0}|Authentication\\Authentication.csproj|solutionrelative:authentication\\models\\authenticationcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78A317DE-6266-42D1-8761-80406C5A44F0}|Authentication\\Authentication.csproj|c:\\hsu\\hk2 2024\\authentication\\authentication\\models\\aspnetusertoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78A317DE-6266-42D1-8761-80406C5A44F0}|Authentication\\Authentication.csproj|solutionrelative:authentication\\models\\aspnetusertoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78A317DE-6266-42D1-8761-80406C5A44F0}|Authentication\\Authentication.csproj|c:\\hsu\\hk2 2024\\authentication\\authentication\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78A317DE-6266-42D1-8761-80406C5A44F0}|Authentication\\Authentication.csproj|solutionrelative:authentication\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78A317DE-6266-42D1-8761-80406C5A44F0}|Authentication\\Authentication.csproj|c:\\hsu\\hk2 2024\\authentication\\authentication\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78A317DE-6266-42D1-8761-80406C5A44F0}|Authentication\\Authentication.csproj|solutionrelative:authentication\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78A317DE-6266-42D1-8761-80406C5A44F0}|Authentication\\Authentication.csproj|c:\\hsu\\hk2 2024\\authentication\\authentication\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78A317DE-6266-42D1-8761-80406C5A44F0}|Authentication\\Authentication.csproj|solutionrelative:authentication\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78A317DE-6266-42D1-8761-80406C5A44F0}|Authentication\\Authentication.csproj|c:\\hsu\\hk2 2024\\authentication\\authentication\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{78A317DE-6266-42D1-8761-80406C5A44F0}|Authentication\\Authentication.csproj|solutionrelative:authentication\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78A317DE-6266-42D1-8761-80406C5A44F0}|Authentication\\Authentication.csproj|c:\\hsu\\hk2 2024\\authentication\\authentication\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{78A317DE-6266-42D1-8761-80406C5A44F0}|Authentication\\Authentication.csproj|solutionrelative:authentication\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78A317DE-6266-42D1-8761-80406C5A44F0}|Authentication\\Authentication.csproj|c:\\hsu\\hk2 2024\\authentication\\authentication\\views\\cart\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{78A317DE-6266-42D1-8761-80406C5A44F0}|Authentication\\Authentication.csproj|solutionrelative:authentication\\views\\cart\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78A317DE-6266-42D1-8761-80406C5A44F0}|Authentication\\Authentication.csproj|c:\\hsu\\hk2 2024\\authentication\\authentication\\views\\cart\\order.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{78A317DE-6266-42D1-8761-80406C5A44F0}|Authentication\\Authentication.csproj|solutionrelative:authentication\\views\\cart\\order.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78A317DE-6266-42D1-8761-80406C5A44F0}|Authentication\\Authentication.csproj|c:\\hsu\\hk2 2024\\authentication\\authentication\\views\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{78A317DE-6266-42D1-8761-80406C5A44F0}|Authentication\\Authentication.csproj|solutionrelative:authentication\\views\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78A317DE-6266-42D1-8761-80406C5A44F0}|Authentication\\Authentication.csproj|c:\\hsu\\hk2 2024\\authentication\\authentication\\views\\home\\_sortingdialog.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{78A317DE-6266-42D1-8761-80406C5A44F0}|Authentication\\Authentication.csproj|solutionrelative:authentication\\views\\home\\_sortingdialog.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78A317DE-6266-42D1-8761-80406C5A44F0}|Authentication\\Authentication.csproj|c:\\hsu\\hk2 2024\\authentication\\authentication\\views\\home\\_searchingdialog.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{78A317DE-6266-42D1-8761-80406C5A44F0}|Authentication\\Authentication.csproj|solutionrelative:authentication\\views\\home\\_searchingdialog.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78A317DE-6266-42D1-8761-80406C5A44F0}|Authentication\\Authentication.csproj|c:\\hsu\\hk2 2024\\authentication\\authentication\\views\\home\\_navigationbuttons2.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{78A317DE-6266-42D1-8761-80406C5A44F0}|Authentication\\Authentication.csproj|solutionrelative:authentication\\views\\home\\_navigationbuttons2.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78A317DE-6266-42D1-8761-80406C5A44F0}|Authentication\\Authentication.csproj|c:\\hsu\\hk2 2024\\authentication\\authentication\\views\\home\\_navigationbuttons1.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{78A317DE-6266-42D1-8761-80406C5A44F0}|Authentication\\Authentication.csproj|solutionrelative:authentication\\views\\home\\_navigationbuttons1.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78A317DE-6266-42D1-8761-80406C5A44F0}|Authentication\\Authentication.csproj|c:\\hsu\\hk2 2024\\authentication\\authentication\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{78A317DE-6266-42D1-8761-80406C5A44F0}|Authentication\\Authentication.csproj|solutionrelative:authentication\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78A317DE-6266-42D1-8761-80406C5A44F0}|Authentication\\Authentication.csproj|c:\\hsu\\hk2 2024\\authentication\\authentication\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78A317DE-6266-42D1-8761-80406C5A44F0}|Authentication\\Authentication.csproj|solutionrelative:authentication\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78A317DE-6266-42D1-8761-80406C5A44F0}|Authentication\\Authentication.csproj|c:\\hsu\\hk2 2024\\authentication\\authentication\\data\\migrations\\00000000000000_createidentityschema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78A317DE-6266-42D1-8761-80406C5A44F0}|Authentication\\Authentication.csproj|solutionrelative:authentication\\data\\migrations\\00000000000000_createidentityschema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78A317DE-6266-42D1-8761-80406C5A44F0}|Authentication\\Authentication.csproj|c:\\hsu\\hk2 2024\\authentication\\authentication\\data\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78A317DE-6266-42D1-8761-80406C5A44F0}|Authentication\\Authentication.csproj|solutionrelative:authentication\\data\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78A317DE-6266-42D1-8761-80406C5A44F0}|Authentication\\Authentication.csproj|c:\\hsu\\hk2 2024\\authentication\\authentication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78A317DE-6266-42D1-8761-80406C5A44F0}|Authentication\\Authentication.csproj|solutionrelative:authentication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78A317DE-6266-42D1-8761-80406C5A44F0}|Authentication\\Authentication.csproj|c:\\hsu\\hk2 2024\\authentication\\authentication\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{78A317DE-6266-42D1-8761-80406C5A44F0}|Authentication\\Authentication.csproj|solutionrelative:authentication\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78A317DE-6266-42D1-8761-80406C5A44F0}|Authentication\\Authentication.csproj|c:\\hsu\\hk2 2024\\authentication\\authentication\\readme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{78A317DE-6266-42D1-8761-80406C5A44F0}|Authentication\\Authentication.csproj|solutionrelative:authentication\\readme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78A317DE-6266-42D1-8761-80406C5A44F0}|Authentication\\Authentication.csproj|c:\\hsu\\hk2 2024\\authentication\\authentication\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{78A317DE-6266-42D1-8761-80406C5A44F0}|Authentication\\Authentication.csproj|solutionrelative:authentication\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AuthenticationContext.cs",
+              "DocumentMoniker": "C:\\HSU\\HK2 2024\\Authentication\\Authentication\\Models\\AuthenticationContext.cs",
+              "RelativeDocumentMoniker": "Authentication\\Models\\AuthenticationContext.cs",
+              "ToolTip": "C:\\HSU\\HK2 2024\\Authentication\\Authentication\\Models\\AuthenticationContext.cs",
+              "RelativeToolTip": "Authentication\\Models\\AuthenticationContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T02:46:32.464Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\HSU\\HK2 2024\\Authentication\\Authentication\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Authentication\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\HSU\\HK2 2024\\Authentication\\Authentication\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Authentication\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAADwAAAAAAAAAAAAowAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T02:46:06.05Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CartController.cs",
+              "DocumentMoniker": "C:\\HSU\\HK2 2024\\Authentication\\Authentication\\Controllers\\CartController.cs",
+              "RelativeDocumentMoniker": "Authentication\\Controllers\\CartController.cs",
+              "ToolTip": "C:\\HSU\\HK2 2024\\Authentication\\Authentication\\Controllers\\CartController.cs",
+              "RelativeToolTip": "Authentication\\Controllers\\CartController.cs",
+              "ViewState": "AQIAAHEAAAAAAAAAAAAswAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T02:45:49.57Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "C:\\HSU\\HK2 2024\\Authentication\\Authentication\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "Authentication\\Controllers\\AdminController.cs",
+              "ToolTip": "C:\\HSU\\HK2 2024\\Authentication\\Authentication\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "Authentication\\Controllers\\AdminController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T02:45:47.571Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\HSU\\HK2 2024\\Authentication\\Authentication\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Authentication\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\HSU\\HK2 2024\\Authentication\\Authentication\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Authentication\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAJYAAAAAAAAAAAAAAJwAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-26T02:12:17.962Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\HSU\\HK2 2024\\Authentication\\Authentication\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Authentication\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\HSU\\HK2 2024\\Authentication\\Authentication\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Authentication\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-26T02:11:16.562Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Order.cshtml",
+              "DocumentMoniker": "C:\\HSU\\HK2 2024\\Authentication\\Authentication\\Views\\Cart\\Order.cshtml",
+              "RelativeDocumentMoniker": "Authentication\\Views\\Cart\\Order.cshtml",
+              "ToolTip": "C:\\HSU\\HK2 2024\\Authentication\\Authentication\\Views\\Cart\\Order.cshtml",
+              "RelativeToolTip": "Authentication\\Views\\Cart\\Order.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-26T02:10:58.861Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\HSU\\HK2 2024\\Authentication\\Authentication\\appsettings.json",
+              "RelativeDocumentMoniker": "Authentication\\appsettings.json",
+              "ToolTip": "C:\\HSU\\HK2 2024\\Authentication\\Authentication\\appsettings.json",
+              "RelativeToolTip": "Authentication\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-26T00:21:25.768Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\HSU\\HK2 2024\\Authentication\\Authentication\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Authentication\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\HSU\\HK2 2024\\Authentication\\Authentication\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Authentication\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAAA4AAABWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-26T01:26:42.354Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AspNetUserToken.cs",
+              "DocumentMoniker": "C:\\HSU\\HK2 2024\\Authentication\\Authentication\\Models\\AspNetUserToken.cs",
+              "RelativeDocumentMoniker": "Authentication\\Models\\AspNetUserToken.cs",
+              "ToolTip": "C:\\HSU\\HK2 2024\\Authentication\\Authentication\\Models\\AspNetUserToken.cs",
+              "RelativeToolTip": "Authentication\\Models\\AspNetUserToken.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T02:46:30.295Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\HSU\\HK2 2024\\Authentication\\Authentication\\Views\\Admin\\Index.cshtml",
+              "RelativeDocumentMoniker": "Authentication\\Views\\Admin\\Index.cshtml",
+              "ToolTip": "C:\\HSU\\HK2 2024\\Authentication\\Authentication\\Views\\Admin\\Index.cshtml",
+              "RelativeToolTip": "Authentication\\Views\\Admin\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-26T02:10:36.853Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "_SearchingDialog.cshtml",
+              "DocumentMoniker": "C:\\HSU\\HK2 2024\\Authentication\\Authentication\\Views\\Home\\_SearchingDialog.cshtml",
+              "RelativeDocumentMoniker": "Authentication\\Views\\Home\\_SearchingDialog.cshtml",
+              "ToolTip": "C:\\HSU\\HK2 2024\\Authentication\\Authentication\\Views\\Home\\_SearchingDialog.cshtml",
+              "RelativeToolTip": "Authentication\\Views\\Home\\_SearchingDialog.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-26T02:09:30.918Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "_NavigationButtons2.cshtml",
+              "DocumentMoniker": "C:\\HSU\\HK2 2024\\Authentication\\Authentication\\Views\\Home\\_NavigationButtons2.cshtml",
+              "RelativeDocumentMoniker": "Authentication\\Views\\Home\\_NavigationButtons2.cshtml",
+              "ToolTip": "C:\\HSU\\HK2 2024\\Authentication\\Authentication\\Views\\Home\\_NavigationButtons2.cshtml",
+              "RelativeToolTip": "Authentication\\Views\\Home\\_NavigationButtons2.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-26T02:09:21.998Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\HSU\\HK2 2024\\Authentication\\Authentication\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Authentication\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\HSU\\HK2 2024\\Authentication\\Authentication\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Authentication\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-26T02:11:19.03Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "_NavigationButtons1.cshtml",
+              "DocumentMoniker": "C:\\HSU\\HK2 2024\\Authentication\\Authentication\\Views\\Home\\_NavigationButtons1.cshtml",
+              "RelativeDocumentMoniker": "Authentication\\Views\\Home\\_NavigationButtons1.cshtml",
+              "ToolTip": "C:\\HSU\\HK2 2024\\Authentication\\Authentication\\Views\\Home\\_NavigationButtons1.cshtml",
+              "RelativeToolTip": "Authentication\\Views\\Home\\_NavigationButtons1.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-26T02:08:31.607Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\HSU\\HK2 2024\\Authentication\\Authentication\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "Authentication\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\HSU\\HK2 2024\\Authentication\\Authentication\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "Authentication\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-26T02:08:21.201Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\HSU\\HK2 2024\\Authentication\\Authentication\\Views\\Cart\\Index.cshtml",
+              "RelativeDocumentMoniker": "Authentication\\Views\\Cart\\Index.cshtml",
+              "ToolTip": "C:\\HSU\\HK2 2024\\Authentication\\Authentication\\Views\\Cart\\Index.cshtml",
+              "RelativeToolTip": "Authentication\\Views\\Cart\\Index.cshtml",
+              "ViewState": "AQIAAGMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-26T01:27:41.819Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "_SortingDialog.cshtml",
+              "DocumentMoniker": "C:\\HSU\\HK2 2024\\Authentication\\Authentication\\Views\\Home\\_SortingDialog.cshtml",
+              "RelativeDocumentMoniker": "Authentication\\Views\\Home\\_SortingDialog.cshtml",
+              "ToolTip": "C:\\HSU\\HK2 2024\\Authentication\\Authentication\\Views\\Home\\_SortingDialog.cshtml",
+              "RelativeToolTip": "Authentication\\Views\\Home\\_SortingDialog.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-26T02:09:40.376Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\HSU\\HK2 2024\\Authentication\\Authentication\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Authentication\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\HSU\\HK2 2024\\Authentication\\Authentication\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Authentication\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T00:50:24.999Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "00000000000000_CreateIdentitySchema.cs",
+              "DocumentMoniker": "C:\\HSU\\HK2 2024\\Authentication\\Authentication\\Data\\Migrations\\00000000000000_CreateIdentitySchema.cs",
+              "RelativeDocumentMoniker": "Authentication\\Data\\Migrations\\00000000000000_CreateIdentitySchema.cs",
+              "ToolTip": "C:\\HSU\\HK2 2024\\Authentication\\Authentication\\Data\\Migrations\\00000000000000_CreateIdentitySchema.cs",
+              "RelativeToolTip": "Authentication\\Data\\Migrations\\00000000000000_CreateIdentitySchema.cs",
+              "ViewState": "AQIAAKYAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T00:56:31.616Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ApplicationDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\HSU\\HK2 2024\\Authentication\\Authentication\\Data\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Authentication\\Data\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\HSU\\HK2 2024\\Authentication\\Authentication\\Data\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeToolTip": "Authentication\\Data\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ViewState": "AQIAAH8AAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T00:51:49.393Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ScaffoldingReadMe.txt",
+              "DocumentMoniker": "C:\\HSU\\HK2 2024\\Authentication\\Authentication\\ScaffoldingReadMe.txt",
+              "RelativeDocumentMoniker": "Authentication\\ScaffoldingReadMe.txt",
+              "ToolTip": "C:\\HSU\\HK2 2024\\Authentication\\Authentication\\ScaffoldingReadMe.txt",
+              "RelativeToolTip": "Authentication\\ScaffoldingReadMe.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-06-26T00:44:56.456Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "README.txt",
+              "DocumentMoniker": "C:\\HSU\\HK2 2024\\Authentication\\Authentication\\README.txt",
+              "RelativeDocumentMoniker": "Authentication\\README.txt",
+              "ToolTip": "C:\\HSU\\HK2 2024\\Authentication\\Authentication\\README.txt",
+              "RelativeToolTip": "Authentication\\README.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-06-26T00:44:53.132Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\HSU\\HK2 2024\\Authentication\\Authentication\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "Authentication\\appsettings.Development.json",
+              "ToolTip": "C:\\HSU\\HK2 2024\\Authentication\\Authentication\\appsettings.Development.json",
+              "RelativeToolTip": "Authentication\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-26T00:26:28.756Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\HSU\\HK2 2024\\Authentication\\Authentication\\Program.cs",
+              "RelativeDocumentMoniker": "Authentication\\Program.cs",
+              "ToolTip": "C:\\HSU\\HK2 2024\\Authentication\\Authentication\\Program.cs",
+              "RelativeToolTip": "Authentication\\Program.cs",
+              "ViewState": "AQIAADsAAAAAAAAAAAAAwEMAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T00:40:07.109Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

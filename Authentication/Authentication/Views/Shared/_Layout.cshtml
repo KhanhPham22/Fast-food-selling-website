@@ -1,0 +1,179 @@
+﻿@using Microsoft.AspNetCore.Identity
+@inject SignInManager<IdentityUser> SignInManager
+@inject UserManager<IdentityUser> UserManager
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - Authentication</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/Authentication.styles.css" asp-append-version="true" />
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css">
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f8f9fa;
+        }
+
+        .navbar {
+            background-color: #343a40 !important;
+        }
+
+        .navbar-brand, .nav-link {
+            color: #ffffff !important;
+        }
+
+            .nav-link:hover {
+                color: #d1d1d1 !important;
+            }
+
+        .navbar-toggler-icon {
+            filter: invert(100%);
+        }
+
+        .container-fluid {
+            max-width: 1200px;
+        }
+
+        .hero {
+            position: relative;
+            background: url('https://example.com/hero-image.jpg') no-repeat center center;
+            background-size: cover;
+            color: #ffffff;
+            padding: 100px 0;
+            text-align: center;
+        }
+
+            .hero::before {
+                content: "";
+                position: absolute;
+                top: 0;
+                left: 0;
+                width: 100%;
+                height: 100%;
+                background: rgba(0, 0, 0, 0.5); /* Dark overlay */
+                z-index: 1;
+            }
+
+            .hero h1,
+            .hero p,
+            .hero .btn {
+                position: relative;
+                z-index: 2;
+            }
+
+            .hero h1 {
+                font-size: 3rem;
+                margin-bottom: 20px;
+                text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.7);
+            }
+
+            .hero p {
+                font-size: 1.5rem;
+                margin-bottom: 40px;
+                text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.7);
+            }
+
+        .btn-primary {
+            background-color: #007bff;
+            border-color: #007bff;
+        }
+
+        footer {
+            background-color: #343a40;
+            color: #ffffff;
+            padding: 8px 0;
+        }
+
+            footer a {
+                color: #ffffff;
+            }
+
+                footer a:hover {
+                    color: #d1d1d1;
+                }
+
+        main {
+            padding: 40px 0;
+        }
+
+        .product-item {
+            border: 1px solid #dddddd;
+            border-radius: 5px;
+            padding: 15px;
+            margin-bottom: 30px;
+            background-color: #ffffff;
+        }
+
+            .product-item h4 {
+                margin-bottom: 10px;
+            }
+
+            .product-item p {
+                margin-bottom: 15px;
+            }
+
+            .product-item .price {
+                font-size: 1.2rem;
+                font-weight: bold;
+            }
+    </style>
+</head>
+<body>
+    <header>
+        <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-dark">
+            <div class="container-fluid">
+                <a class="navbar-brand" asp-area="" asp-controller="Home" asp-action="Index">Food Shop</a>
+                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target=".navbar-collapse" aria-controls="navbarSupportedContent"
+                        aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+                <div class="navbar-collapse collapse d-sm-inline-flex justify-content-between">
+                    <ul class="navbar-nav flex-grow-1">
+                        <li class="nav-item">
+                            <a class="nav-link" asp-area="" asp-controller="Home" asp-action="Index">Home</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
+                        </li>
+                        @if (SignInManager.IsSignedIn(User) && User.IsInRole("Admin"))
+                        {
+                            <li class="nav-item">
+                                <a class="nav-link" asp-area="" asp-controller="Products" asp-action="Index">Products</a>
+                            </li>
+                        }
+                    </ul>
+                    <partial name="_LoginPartial" />
+                </div>
+            </div>
+        </nav>
+    </header>
+
+    <div class="hero">
+        <div class="container">
+            <h1>Welcome to Food Shop</h1>
+            <p>Find the best food you want to eat</p>
+            <a href="#" class="btn btn-primary">Shop Now</a>
+        </div>
+    </div>
+
+    <div class="container">
+        <main role="main" class="pb-3">
+            @RenderBody()
+        </main>
+    </div>
+
+    <footer class="border-top footer text-muted">
+        <div class="container">
+            &copy; 2024 - Phone Shop - <a asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
+        </div>
+    </footer>
+
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
+</html>
